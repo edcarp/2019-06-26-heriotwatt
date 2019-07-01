@@ -1,7 +1,7 @@
 
 # 2019-06-26 Data Carpentry
 
-## R (Part 1) Feedback
+## R (Part 2) Feedback
 
 Green stickies (verbatim):
 
